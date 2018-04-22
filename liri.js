@@ -99,14 +99,14 @@ function doThis() {
         var play = [];  
     // // Loop Through the newly created output array
         for (var i = 0; i < output.length; i++) {
-            play = output[(Math.floor(Math.random() * output.length) == 0)]
+            play = output[Math.floor(Math.random() * output.length)]
            
             arrange.push(play)
       // Print each element (item) of the array/
            // console.log(arrange[0]);
             }
-         console.log(arrange[0]);
-        console.log(output);
+         console.log(arrange[1]);
+       // console.log(output);
 
         });
         // console.log(data)
