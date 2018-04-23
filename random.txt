@@ -1,1 +1,12 @@
-spotify-this-song,"war", "Jessie's Girl", "I Want it That Way", "Selassie Soldiers",
+spotify-this-song, beef-rap,
+beef-rap, 
+war, 
+no-other-like-jah, 
+Walk this way,
+illmatic,
+smells-like-teen-spirit, 
+king, 
+king-without-a-crown, 
+palava, 
+trouble-sleep, 
+paradise
