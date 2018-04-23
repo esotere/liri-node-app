@@ -57,7 +57,7 @@ function spotifySong() {
 }
 
 function movie() {
-                //note to self; find out why using my key throws an error as opposed to trilogy
+                //note to self; find out why using my key throws an error as opposed to trilogy**
          //let omdb = new request(keys.omdb)
 
     let movieName = process.argv[3];
